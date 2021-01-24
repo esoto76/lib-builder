@@ -1,0 +1,21 @@
+{
+  "name": "@esoto/lib-builder",
+  "version": "0.0.0",
+  "description": "esoto library builder tools using rollup.js",
+  "author": "Eric Sotomayor <elpasocolorartist@yahoo.com>",
+  "license": "ISC",
+  "private": true,
+  "keywords": [
+    "@esoto/lib-builder",
+    "esoto-lib-builder",
+    "lib-builder"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esoto76/lib-builder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/esoto76/lib-builder/issues"
+  },
+  "homepage": "https://github.com/esoto76/lib-builder#readme"
+}
